@@ -1,7 +1,7 @@
 # WWDC19-Apply-Checklist
 Checklist to apply to a scholarship to WWDC19!
 
-The main idea of this is to not left this **really important** part of for the last minute.
+The main idea of this is to not left this **really important** part of for the last minute. ⏰
 The checklist is separated and ordered by the apllication order (drop menus options are not included here).
 
 Copy this to wherever you will see every day so that you won't forget anything.
