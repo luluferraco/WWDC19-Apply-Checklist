@@ -1,5 +1,7 @@
 # WWDC19 Scholarship Application Checklist
 
+The checklist is separated and ordered by the apllication order (drop menus options are not included here).
+
 **Remember: these writen answers are as important as your `Swift Playground`.** 
 
 ---
