@@ -1,4 +1,4 @@
-# WWDC19-Apply-Checklist
+# WWDC19 Application Checklist
 Checklist to apply to a scholarship to WWDC19!
 
 The main idea of this is to not left this **really important** part of for the last minute. ⏰
