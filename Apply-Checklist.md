@@ -1,8 +1,8 @@
 # WWDC19 Scholarship Application Checklist
 
-The checklist is separated and ordered by the apllication order (drop menus options are not included here).
+The checklist is separated and ordered by the application order (drop menus options are not included here).
 
-**Remember: these writen answers are as important as your `Swift Playground`.** 
+**Remember: these written answers are as important as your `Swift Playground`.** 
 
 ---
 
@@ -48,7 +48,7 @@ If you have, I recommend putting their App Store links.
 
 ### Air Transportation Assistance (optional) 🛫
 If **you have highly extenuating financial circumstances** that would still prohibit you from attending, you may apply to be considered for provided air transportation.
-If you're asking for assistance, remeber that you'll need a letter from a teacher/supervisor/authority, **ask them with anticipation**.
+If you're asking for assistance, remember that you'll need a letter from a teacher/supervisor/authority, **ask them with anticipation**.
 
 - [ ] Explain your extenuating circumstances that requires financial assistance for traveling, in 500 words or less.
 - [ ] Provide a letter that confirms your need for financial assistance for travel written by a teacher, supervisor, or other person of authority in your community.
